@@ -1,0 +1,19 @@
+/* universal selector */
+* {
+    background-color: rgb(216, 216, 216);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+/* // body  */
+body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+    height: 100vh;
+    overflow: hidden;
+}
